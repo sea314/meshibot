@@ -1,0 +1,4 @@
+# https://github.com/google/clasp/blob/master/docs/config-files.md
+
+.clasp.json
+.clasprc.json
